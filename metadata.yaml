@@ -1,5 +1,5 @@
 _repo: Seikkailu-jalkamatkalla-Viisinaytoksinen-laulunaytelma_52174
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Halme, Kaarle
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '33643'
     url: http://www.gutenberg.org/2009/agents/33643
     wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Halme
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hostrup, C. (Christian)
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '45915'
     url: http://www.gutenberg.org/2009/agents/45915
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52174#Seikkailu-jalkamatkalla-Viisinaytoksinen-laulunaytelma
 gutenberg_issued: '2016-05-28'
 gutenberg_type: Text
 identifiers:
