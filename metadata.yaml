@@ -1,0 +1,35 @@
+_repo: Seikkailu-jalkamatkalla-Viisinaytoksinen-laulunaytelma_52174
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Halme, Kaarle
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '33643'
+    url: http://www.gutenberg.org/2009/agents/33643
+    wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Halme
+creator:
+  author:
+    agent_name: Hostrup, C. (Christian)
+    aliases:
+    - Hostrup, Jens Christian
+    - Hostrup, Christian
+    birthdate: 1818
+    deathdate: 1892
+    gutenberg_agent_id: '45915'
+    url: http://www.gutenberg.org/2009/agents/45915
+description: ''
+gutenberg_issued: '2016-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52174'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Seikkailu jalkamatkalla: Viisinäytöksinen laulunäytelmä'
+url: http://www.gutenberg.org/ebooks/52174
